@@ -32,6 +32,7 @@ class SearchBar extends React.Component{
 				<input 
 					onChange = {this.onInputChange}
 					value = {this.state.term}
+					className='searchBar'
 				/>
 				<button
 					type = 'submit'
