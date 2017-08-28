@@ -7,20 +7,21 @@
 
 Plain homepage
 
-[search home-page](./images/homepage.PNG)
+![search home-page](./images/homepage.PNG)
 
 User can search for a video and clicks submit for videos to render
-[nba-search](./images/nba-search.PNG)
+![nba-search](./images/nba-search.PNG)
 
 User can click on another video to render in the play section
-[video-click](./images/video-click.PNG)
+![video-click](./images/video-click.PNG)
 
 Technologies:
 * React
 * youtube-api-search npm
 
 
-Components:
+Components Layout
+![component layout](./images/component-layout.PNG)
 
 
 #### Familiar with Git?
