@@ -21,6 +21,7 @@ Technologies:
 
 
 Components Layout
+
 ![component layout](./images/component-layout.PNG)
 
 
