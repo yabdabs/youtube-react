@@ -1,9 +1,11 @@
 # Youtube-React
 
-### This is a Code-Along To Stephen Grider's [Modern React With Redux](https://www.udemy.com/react-redux/learn/v4/overview)
+### This is a Code-Along To Stephen Grider's [Modern React With Redux](https://www.udemy.com/react-redux/learn/v4/overview). 
+
+#### A user can search for youtube videos after they click submit. Videos will render and the user can play the video in the play section, or click on another video from the sidebar to display in the play section. 
 
 ### Changes I made:
-* Videos will only render when the user clicks submit on a video search
+* Videos will only render when the user clicks submit on a video search. 
 
 Plain homepage
 
