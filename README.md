@@ -15,12 +15,12 @@ User can search for a video and clicks submit for videos to render
 User can click on another video to render in the play section
 ![video-click](./images/video-click.PNG)
 
-Technologies:
+### Technologies:
 * React
 * youtube-api-search npm
 
 
-Components Layout
+### Components Layout
 
 ![component layout](./images/component-layout.PNG)
 
