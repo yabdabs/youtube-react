@@ -4,7 +4,7 @@ const VideoDetail = (props) =>{
 	const video= props.video
 
 	if(!video){
-		return <div className='message'>Search and Select A Video To Watch!</div>
+		return <div className='message comment-font'>Search and Select A Video To Watch!</div>
 	}
 
 	const videoId = video.id.videoId
